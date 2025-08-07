@@ -25,3 +25,5 @@ This Streamlit application visualizes network traffic data from syslog, offering
 - **Requests**
 - **MySQL database with syslog schema**
 - **ipinfo.io API token**
+
+- To run in terminal, use this: streamlit run "e:/Network Traffic Analysis Visualization using Streamlit/Network Traffic AnalysisWithPlot.py"
